@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/packages
+/.vs/HoldingViewSample/v14
+/HoldingViewSample/HoldingViewSample/bin/Debug
+/HoldingViewSample/HoldingViewSample/obj/Debug
+/HoldingViewSample/HoldingViewSample.Droid/bin/Debug
+/HoldingViewSample/HoldingViewSample.Droid/obj/Debug
+/HoldingViewSample/HoldingViewSample.iOS/obj/iPhone/Debug
